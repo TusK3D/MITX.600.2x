@@ -1,0 +1,11 @@
+{
+"request": "launch",
+"cwd": "${relativeFile}",
+
+"configurations": [
+    {
+        "console": "internalConsole",
+        "justMyCode": true,
+    }
+]
+}
